@@ -19,6 +19,6 @@ public class User {
     }
 
     public void updateEmail(String newEmail) {
-        this.email = email;
+        this.email = newEmail;
     }
 }
